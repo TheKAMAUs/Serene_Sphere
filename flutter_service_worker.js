@@ -3,9 +3,13 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "d60774c6529feb4134bd00f0cd42ff24",
-"assets/AssetManifest.bin.json": "aabc75dcf72abe57ae65d629939c8e78",
-"assets/AssetManifest.json": "e5f8a301157503beb2a02072c64a6df6",
+const RESOURCES = {"assets/AssetManifest.bin": "61f9c0d5ba06966d1ce559cb7e60a680",
+"assets/AssetManifest.bin.json": "1c1a7e50c61b0b4913229fd8be9a167b",
+"assets/AssetManifest.json": "fcd886632375b93efa62129b0578e8ca",
+"assets/assets/AssetManifest.bin": "d60774c6529feb4134bd00f0cd42ff24",
+"assets/assets/AssetManifest.bin.json": "aabc75dcf72abe57ae65d629939c8e78",
+"assets/assets/AssetManifest.json": "e5f8a301157503beb2a02072c64a6df6",
+"assets/assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/assets/IMG_20250929_080615.jpg": "84409d2d2a4ed15a621a1860d53b9cc0",
 "assets/assets/IMG_20250930_135923.jpg": "6727d99bb60785870dd56f3897e98df7",
 "assets/assets/IMG_20250930_140018.jpg": "6e349aab7a562c618a5a8cd6f6044a46",
@@ -17,6 +21,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "d60774c6529feb4134bd00f0cd42ff24
 "assets/assets/IMG_20250930_150247.jpg": "ddf80277913493cee0809dfb62957854",
 "assets/assets/IMG_20250930_154631.jpg": "f159d90967b03728820f1c983be2fd0a",
 "assets/assets/IMG_20250930_154657.jpg": "bd9137e8e7dda4ddd16f9ec9726f0b4d",
+"assets/assets/NOTICES": "84ccc66581807514a07120f5f96ebdd7",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "8603c17cd325f5d44cb1755acfdfbfa8",
 "assets/NOTICES": "1f0f02ff89b14d0d36b27ad683d8cd46",
@@ -37,7 +42,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "d60774c6529feb4134bd00f0cd42ff24
 "canvaskit/skwasm_st.wasm": "56c3973560dfcbf28ce47cebe40f3206",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "76f08d47ff9f5715220992f993002504",
-"flutter_bootstrap.js": "380ca1e577a8cef2d7eef0d17cc7d09b",
+"flutter_bootstrap.js": "a85c0c5947afa75c94b023aba13e8c8d",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
