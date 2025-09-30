@@ -974,7 +974,7 @@ class _CompanyIntroSectionState extends State<CompanyIntroSection> {
             const SizedBox(height: 40),
 
             ElevatedButton(
-                  onPressed: () => widget.scroll("Final"),
+                  onPressed: () => widget.scroll("Contact"),
                   style: ElevatedButton.styleFrom(
                     padding: EdgeInsets.zero, // remove default padding
                     backgroundColor:
@@ -1120,7 +1120,7 @@ class _ActionsSectionState extends State<ActionsSection> {
 
             // 👇 Get in Touch button
             ElevatedButton(
-                  onPressed: () => widget.scroll("Final"),
+                  onPressed: () => widget.scroll("Contact"),
                   style: ElevatedButton.styleFrom(
                     padding: EdgeInsets.zero, // remove default padding
                     backgroundColor:
